@@ -12,7 +12,7 @@ baldbaby69
 
 # General content
 (All the teammates are requested to enter your text strictly in line 15 only)
-
+how is it going to solve merge confilcts
 
 
 
